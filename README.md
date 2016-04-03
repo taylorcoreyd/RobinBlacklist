@@ -1,4 +1,4 @@
-# robin username highlighter
+# Robin Blacklist
 
 A Blacklist for Reddit's Robin.
 
